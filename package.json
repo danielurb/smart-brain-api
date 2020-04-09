@@ -20,6 +20,7 @@
     "pg": "^7.17.0"
   },
   "devDependencies": {
+    "minimist": ">=1.2.3",
     "nodemon": "^2.0.2"
   }
 }
