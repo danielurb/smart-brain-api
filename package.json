@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "kind-of": ">=6.0.3",
-    "minimist": ">=1.2.3",
+    "minimist": ">=1.2.6",
     "nodemon": "^2.0.21"
   }
 }
